@@ -170,4 +170,20 @@
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
     </fields>
+    <fields>
+        <fullName>Sample_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>Sample Number</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Sample_text_1__c</fullName>
+        <externalId>false</externalId>
+        <label>Sample text 1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
 </CustomObject>
