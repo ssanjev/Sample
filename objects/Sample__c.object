@@ -2,12 +2,7 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <actionOverrides>
         <actionName>Accept</actionName>
-       
-        
-        
-        
-        
-        <type>Default</type>
+       <type>Default</type>
     </actionOverrides>
     <actionOverrides>
         <actionName>Accept</actionName>
@@ -187,6 +182,14 @@
         <fullName>Sample_text_1__c</fullName>
         <externalId>false</externalId>
         <label>Sample text 1</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+     <fields>
+        <fullName>Sample_text_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Sample text 2</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
